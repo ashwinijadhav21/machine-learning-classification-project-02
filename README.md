@@ -1,11 +1,11 @@
 #customer personality analysis
 
-Built an end-to-end Customer Personality Analysis & Churn Prediction system using machine learning techniques such as Logistic Regression and Decision Tree. Applied WOE (Weight of Evidence) and Information Value (IV) for feature engineering and selection.
+Built an end-to-end Customer Personality Analysis using machine learning techniques such as Logistic Regression and Decision Tree. Applied WOE (Weight of Evidence) and Information Value (IV) for feature engineering and selection.
 The project includes model evaluation using standard metrics and advanced business analytics like Roll Rate Analysis and Vintage Analysis to understand customer behavior and churn patterns.
 
 📌 Project Overview
 
-This project implements an end-to-end Customer Personality Analysis & Churn Prediction system using an industry-standard machine learning pipeline.
+This project implements an end-to-end Customer Personality Analysis using an industry-standard machine learning pipeline.
 The goal is to classify customers as Churn (Bad) or Non-Churn (Good) while also performing key analytics such as Roll Rate Analysis and Vintage Analysis.
 
 ⚙️ Key Features
